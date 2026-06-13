@@ -12,38 +12,63 @@
 
 </div>
 
-I design the parts AI can't — PCB layouts, UI on real displays, hardware-aware decisions, system architecture — and use AI to write the firmware logic I architect.
+I design the parts AI can't — PCB layouts, UI on real displays, hardware-aware decisions — and use AI to write the firmware logic I architect.
 
-## 🔧 PCB Layout & Routing
-<img src="https://img.shields.io/badge/EasyEDA-176B52?style=flat&logo=easyeda&logoColor=white" height="28">
-- Route **2-layer & 4-layer** boards
-- Dense routing within locked placement constraints
-- Ground plane management & signal integrity
-- Differential pairs (camera / USB)
+## 🛠 Technical Skills
+<table>
+  <tr>
+    <td>
+
+### 🔧 PCB Layout
+---
+<img src="https://img.shields.io/badge/EasyEDA-176B52?style=flat&logo=easyeda&logoColor=white" height="26"><br>
+- 2-layer & 4-layer boards<br>
+- Ground planes, differential pairs<br>
 - Compact form factors
+    </td>
+    <td>
 
-## 🎨 UI on Displays (LVGL)
-I design the interface myself — an AI can't judge a screen it can't see — then AI implements the control code.
+### 🔌 Hardware
+---
+<img src="https://img.shields.io/badge/ESP32-E33E2A?style=flat&logo=espressif&logoColor=white" height="26"><br>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" height="26"><br>
+ESP32/S3 · STM32/H7 · K230<br>
+LCD/AMOLED · radar · PZEM
+    </td>
+    <td>
 
-## 🔌 Hardware I Work With
-**MCUs/SoCs:** ESP32 · ESP32-S3 · STM32 / STM32H7 · K230 module
-**Sensors:** radar · MLX90614 (IR temp) · PM2.5 · PZEM (power)
-**Displays:** LCD / AMOLED
-**Protocols:** UART · I2C · SPI · RS485/Modbus · MQTT · BLE · ESP-NOW · WiFi
+### 💻 Software
+---
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" height="26">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="26"><br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="26">
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white" height="26"><br>
+<img src="https://img.shields.io/badge/LVGL-34ADD3?style=flat&logo=lvgl&logoColor=white" height="26">
+<img src="https://img.shields.io/badge/FreeRTOS-1A9FBA?style=flat&logo=freertos&logoColor=white" height="26">
+    </td>
+    <td>
 
-## 💻 Software
-I read, understand & architect firmware — AI helps write the code.
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/LVGL-34ADD3?style=flat&logo=lvgl&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/FreeRTOS-1A9FBA?style=flat&logo=freertos&logoColor=white" height="28">
+### 📡 Protocols
+---
+UART · I2C · SPI<br>
+RS485 / Modbus · MQTT<br>
+BLE · ESP-NOW · WiFi
+    </td>
+  </tr>
+</table>
 
-## 🎯 Interests
-- 🔌 Electronics & hardware
-- 🎌 Anime (Jujutsu Kaisen)
-- 🛠 Building real things
+## 🔥 Current Focus
+
+- 📐 **PCB layout** for embedded boards (2/4-layer)
+- 🤖 **Embedded systems** — hardware + firmware logic
+- 🎨 **LVGL UI** on real displays
+- 🦾 **Robot arm system** — Web → ESP32 → STM32
+
+## 🎯 Interests & Hobbies
+
+- 🔌 **Electronics** — boards, sensors, displays
+- 🎌 **Anime** — Jujutsu Kaisen (Higuruma Hiromi)
+- 🛠 **Building real things**
 
 ## 📫 Connect With Me
 
