@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/higuruma.webp" width="210" alt="Hiromi Higuruma" />
+  <img src="assets/animation1.gif" width="280" alt="Animation banner" />
 </p>
 
 # 👋 Hi, I'm Arfu ( Fu )
