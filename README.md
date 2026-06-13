@@ -37,7 +37,7 @@ PlatformIO · Arduino · FreeRTOS · LVGL · VS Code · Git
 ## 🌙 Interests & Hobbies
 
 - 😴 **Sleeping** — the most underrated hobby
-- 📚 **Reading novels & manga** — mystery, strategy, plot twists, heartbreak, thriller
+- 📚 **Reading novels & manga** — mystery, strategy, plot twists, thriller
 
 ## 📫 Connect With Me
 
