@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arfu (KakaoFull)
+# 👋 Hi, I'm Arfu (Fu)
 
 > "Executioner sword"
 
