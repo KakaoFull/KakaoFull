@@ -13,7 +13,7 @@
 </div>
 
 ## 🛠 Technical Skills
-<table>
+<table style="table-layout:fixed;width:100%">
   <tr>
     <td width="25%">
 
@@ -21,7 +21,9 @@
 ---
 <img src="https://img.shields.io/badge/C-8B5FBF?style=flat&logo=c&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/C++-7A4BA3?style=flat&logo=cplusplus&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/Python-6A3787?style=flat&logo=python&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Python-6A3787?style=flat&logo=python&logoColor=white" height="30"><br>
+<small>register-level · HAL</small><br>
+<small>embedded firmware</small>
     </td>
     <td width="25%">
 
@@ -31,7 +33,7 @@
 <img src="https://img.shields.io/badge/ESP32-7A4BA3?style=flat&logo=espressif&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/STM32-6A3787?style=flat&logo=stmicroelectronics&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/K230-55306B?style=flat&logo=riscv&logoColor=white" height="30"><br>
-<small>2/4-layer PCB</small>
+<small>2/4-layer · diff pairs</small>
     </td>
     <td width="25%">
 
@@ -41,7 +43,7 @@
 <img src="https://img.shields.io/badge/Wi--Fi-7A4BA3?style=flat&logo=wifi&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/ESP--NOW-6A3787?style=flat&logo=espressif&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/MQTT-55306B?style=flat&logo=eclipsemosquitto&logoColor=white" height="30"><br>
-<small>UART · I2C · SPI · RS485/Modbus</small>
+<small>UART · I2C · SPI · RS485</small>
     </td>
     <td width="25%">
 
