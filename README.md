@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/62/Hiromi_Higuruma_%28Anime%29.png/revision/latest?cb=20251230190230" width="210" alt="Hiromi Higuruma" />
+  <img src="assets/higuruma.webp" width="210" alt="Hiromi Higuruma" />
 </p>
 
 # 👋 Hi, I'm Arfu ( Fu )
