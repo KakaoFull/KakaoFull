@@ -29,10 +29,10 @@ PlatformIO · Arduino · FreeRTOS · LVGL · VS Code · Git
 
 ## 🔥 Current Focus
 
-- 📐 **PCB design** - 2/4-layer boards from datasheet to fabrication
-- 🖥️ **Embedded UIs** - LVGL interfaces on real TFT / AMOLED displays
-- 🦾 **Robot arm system** - Web → ESP32 → STM32 motion-control pipeline
-- 📡 **IoT & sensing** - PM2.5, IR-temperature, power metering over MQTT / Modbus
+- 💻 **Embedded Firmware Development** — Writing C/C++ for MCU-based systems
+- ⚡ **RTOS Deep Dive** — FreeRTOS, Task Management, Mutex, Semaphore
+- 📡 **Communication Protocols** — UART, SPI, I2C, CAN
+- 🔗 **Wireless & BLE** — BLE Stack, GATT/GAP, Bluetooth Low Energy
 
 ## 🎯 Interests & Hobbies
 
