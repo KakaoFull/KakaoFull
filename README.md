@@ -8,7 +8,7 @@
 
 *RMUTL · วิศวกรรมคอมพิวเตอร์*
 
-*"Executioner sword" — inspired by Higuruma Hiromi*
+*"Even if I'm the only one, I want to keep my eyes open." — Higuruma Hiromi*
 
 </div>
 
