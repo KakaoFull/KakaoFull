@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arfu (Fu)
+# 👋 Hi, I'm Arfu ( Fu )
 
 > "Executioner sword"
 
