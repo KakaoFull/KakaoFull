@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi there! ⚔️ I'm Arfu (Full)
+# Greetings. ⚖️ I'm Arfu (Full)
 
 <img src="assets/animation1.gif" width="100%" alt="Banner" />
 
