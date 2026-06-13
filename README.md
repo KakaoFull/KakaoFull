@@ -15,7 +15,7 @@
 ## 🛠 Technical Skills
 <table>
   <tr>
-    <td>
+    <td width="25%">
 
 ### 💻 Languages
 ---
@@ -23,32 +23,35 @@
 <img src="https://img.shields.io/badge/C++-7A4BA3?style=flat&logo=cplusplus&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/Python-6A3787?style=flat&logo=python&logoColor=white" height="30">
     </td>
-    <td>
+    <td width="25%">
 
-### 🔩 Hardware & PCB Tools
+### ⚙️ Hardware & MCUs
 ---
 <img src="https://img.shields.io/badge/EasyEDA-8B5FBF?style=flat&logo=easyeda&logoColor=white" height="30"><br>
-<small>2/4-layer · diff pairs<br>ground planes</small>
+<img src="https://img.shields.io/badge/ESP32-7A4BA3?style=flat&logo=espressif&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/STM32-6A3787?style=flat&logo=stmicroelectronics&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/K230-55306B?style=flat&logo=riscv&logoColor=white" height="30"><br>
+<small>2/4-layer PCB</small>
     </td>
-    <td>
+    <td width="25%">
 
-### 📡 Protocols & Platforms
+### 📡 Protocols
 ---
 <img src="https://img.shields.io/badge/BLE-8B5FBF?style=flat&logo=bluetooth&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/Wi--Fi-7A4BA3?style=flat&logo=wifi&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/ESP--NOW-6A3787?style=flat&logo=espressif&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/MQTT-55306B?style=flat&logo=eclipsemosquitto&logoColor=white" height="30"><br>
-<small>UART · I2C · SPI · RS485/Modbus<br>ESP32 · STM32 · K230</small>
+<small>UART · I2C · SPI · RS485/Modbus</small>
     </td>
-    <td>
+    <td width="25%">
 
-### 🛠️ Development Tools
+### 🛠️ Firmware & Tools
 ---
 <img src="https://img.shields.io/badge/PlatformIO-8B5FBF?style=flat&logo=platformio&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/Arduino-7A4BA3?style=flat&logo=arduino&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/FreeRTOS-6A3787?style=flat&logo=freertos&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/LVGL-55306B?style=flat&logo=lvgl&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/Git-4B2A60?style=flat&logo=git&logoColor=white" height="30">
+<small>Git · VS Code</small>
     </td>
   </tr>
 </table>
