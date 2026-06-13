@@ -13,46 +13,19 @@
 </div>
 
 ## 🛠 Technical Skills
-<table>
-  <tr>
-    <td>
 
-### 🧩 PCB Design
----
-<img src="https://img.shields.io/badge/EasyEDA-8B5FBF?style=flat&logo=easyeda&logoColor=white" height="30"><br>
-<small>2/4-layer · diff pairs<br>ground planes · DRC</small>
-    </td>
-    <td>
+### 💻 Languages
+C · C++ · Python
 
-### ⚙️ MCUs & SoCs
----
-<img src="https://img.shields.io/badge/ESP32-8B5FBF?style=flat&logo=espressif&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/STM32-7A4BA3?style=flat&logo=stmicroelectronics&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/K230-6A3787?style=flat&logo=riscv&logoColor=white" height="30">
-    </td>
-    <td>
+### 🔩 Hardware & PCB Tools
+EasyEDA — 2/4-layer PCBs, differential pairs, ground planes
 
-### 💾 Embedded & Firmware
----
-<img src="https://img.shields.io/badge/C-8B5FBF?style=flat&logo=c&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/C++-7A4BA3?style=flat&logo=cplusplus&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/FreeRTOS-6A3787?style=flat&logo=freertos&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/LVGL-55306B?style=flat&logo=lvgl&logoColor=white" height="30">
-    </td>
-    <td>
+### 📡 Protocols & Platforms
+UART / SPI / I2C · RS485 · Modbus · MQTT · BLE · Wi-Fi · ESP-NOW
+ESP32 · STM32 · K230
 
-### 📡 Protocols
----
-<img src="https://img.shields.io/badge/BLE-8B5FBF?style=flat&logo=bluetooth&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/Wi--Fi-7A4BA3?style=flat&logo=wifi&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/ESP--NOW-6A3787?style=flat&logo=espressif&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/MQTT-55306B?style=flat&logo=eclipsemosquitto&logoColor=white" height="30"><br>
-<small>UART · I2C · SPI<br>RS485 · Modbus RTU</small>
-    </td>
-  </tr>
-</table>
-
-*Also working with: PlatformIO · Arduino · Python · PZEM · GY-906 · PM2.5 · TFT/AMOLED*
+### 🛠️ Development Tools
+PlatformIO · Arduino · FreeRTOS · LVGL · VS Code · Git
 
 ## 🔥 Current Focus
 
