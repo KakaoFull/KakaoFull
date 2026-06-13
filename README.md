@@ -34,11 +34,10 @@ PlatformIO · Arduino · FreeRTOS · LVGL · VS Code · Git
 - 📡 **Communication Protocols** — UART, SPI, I2C, CAN
 - 🔗 **Wireless & BLE** — BLE Stack, GATT/GAP, Bluetooth Low Energy
 
-## 🎯 Interests & Hobbies
+## 🌙 Interests & Hobbies
 
-- 🔌 **Electronics** - boards, sensors, displays
-- 🎌 **Anime** - Jujutsu Kaisen (Higuruma Hiromi)
-- 🛠 **Building real things**
+- 😴 **Sleeping** — the most underrated hobby
+- 📚 **Reading novels & manga** — mystery, strategy, plot twists, heartbreak, thriller
 
 ## 📫 Connect With Me
 
