@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/animation1.gif" width="280" alt="Animation banner" />
+  <img src="assets/animation1.gif" width="100%" alt="Animation banner" />
 </p>
 
 # 👋 Hi, I'm Arfu ( Fu )
