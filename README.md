@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi there! ⚔️ I'm Arfu (KakaoFull)
+# ✨ Hi there! ⚔️ I'm Fu (ฟู)
 
 <img src="assets/animation1.gif" width="100%" alt="Banner" />
 
