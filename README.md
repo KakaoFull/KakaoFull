@@ -4,7 +4,7 @@
 
 <img src="assets/animation1.gif" width="100%" alt="Banner" />
 
-### Embedded Systems · Hardware & Firmware Logic
+### PCB Designer · Embedded Hardware
 
 *RMUTL · วิศวกรรมคอมพิวเตอร์*
 
@@ -12,7 +12,7 @@
 
 </div>
 
-I design the parts AI can't — PCB layouts, UI on real displays, hardware-aware decisions — and use AI to write the firmware logic I architect.
+I design PCBs end-to-end — **schematic, circuit design from datasheets, and layout/routing**. For the hardest parts I lean on research and reference designs.
 
 ## 🛠 Technical Skills
 <table>
